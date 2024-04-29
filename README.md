@@ -1,4 +1,4 @@
-# airbnb_ui_clone
+# AirBnB Clone
 
 A new Flutter project.
 
